@@ -5,7 +5,7 @@ This project is a simple digital clock that displays the current time and dynami
 
 ## Live Demo
 
-Check out the live demo of the digital clock [here](). 
+Check out the live demo of the digital clock [here](https://sunnykumar-code.github.io/digital-clock/). 
 
 ## Features
 
@@ -33,7 +33,7 @@ Check out the live demo of the digital clock [here]().
 
 - `index.html`: The main HTML file containing the structure of the digital clock.
 - `style.css`: Contains the styling for the digital clock.
-- `script.js`: Contains the JavaScript code for updating the time and changing the background image.
+- `app.js`: Contains the JavaScript code for updating the time and changing the background image.
 - `morning.jpg`, `afternoon.jpg`, `evening.jpg`, `night.jpg`: Background images for different times of the day.
 
 
